@@ -34,6 +34,9 @@ from pathlib import Path
 
 from PIL import ImageGrab
 
+# Nur unter Windows. mypy prueft den Rest der Datei dadurch auch nur fuer Windows.
+assert sys.platform == "win32", "tools/vorschau_vscode.py laeuft nur unter Windows"
+
 REPO = Path(__file__).resolve().parents[1]
 ZIEL = REPO / "docs" / "vscode" / "vorschau"
 BEISPIEL = REPO / "tools" / "beispiel.cs"
