@@ -1,0 +1,21 @@
+{
+  "name": "ascot",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#F2C200",
+    "secondary": "#C0C5CC",
+    "accent": "#F2C200",
+    "foreground": "#F5EBD2",
+    "background": "#173E2D",
+    "surface": "#1F4E3A",
+    "panel": "#0E2C1E",
+    "boost": "#FFD835",
+    "warning": "#F2C200",
+    "error": "#C81E2A",
+    "success": "#2E7D52"
+  }
+}

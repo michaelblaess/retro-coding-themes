@@ -1,0 +1,21 @@
+{
+  "name": "synthwave",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FF2E93",
+    "secondary": "#7B2D8E",
+    "accent": "#05D9E8",
+    "foreground": "#F5E9FF",
+    "background": "#1A0B3D",
+    "surface": "#261553",
+    "panel": "#0E0524",
+    "boost": "#FF6EC7",
+    "warning": "#FFD319",
+    "error": "#FF3860",
+    "success": "#39FF14"
+  }
+}

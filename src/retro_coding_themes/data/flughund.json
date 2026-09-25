@@ -1,0 +1,21 @@
+{
+  "name": "flughund",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#244B85",
+    "secondary": "#BCC4CA",
+    "accent": "#3D6FB8",
+    "foreground": "#F0F2F5",
+    "background": "#060810",
+    "surface": "#0E1422",
+    "panel": "#030509",
+    "boost": "#5282D0",
+    "warning": "#D4A040",
+    "error": "#CC3030",
+    "success": "#50AA50"
+  }
+}

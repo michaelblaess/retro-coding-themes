@@ -1,0 +1,21 @@
+{
+  "name": "miami",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FF6FAB",
+    "secondary": "#1FB8BC",
+    "accent": "#FFA06A",
+    "foreground": "#FFE8E0",
+    "background": "#0B2F3F",
+    "surface": "#124050",
+    "panel": "#051825",
+    "boost": "#FF8FC5",
+    "warning": "#FFD76B",
+    "error": "#E63970",
+    "success": "#4ECDA8"
+  }
+}

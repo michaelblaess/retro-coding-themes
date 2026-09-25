@@ -1,0 +1,21 @@
+{
+  "name": "spiderized",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#D71920",
+    "secondary": "#1F75FE",
+    "accent": "#1F75FE",
+    "foreground": "#FFFFFF",
+    "background": "#0E1A3A",
+    "surface": "#1A2C5F",
+    "panel": "#070D24",
+    "boost": "#FF3344",
+    "warning": "#FFA830",
+    "error": "#C80A18",
+    "success": "#4AA85A"
+  }
+}

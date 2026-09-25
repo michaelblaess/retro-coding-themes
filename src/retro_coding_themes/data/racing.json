@@ -1,0 +1,21 @@
+{
+  "name": "racing",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#1A5CC8",
+    "secondary": "#C0C6D0",
+    "accent": "#E42030",
+    "foreground": "#EEF0F5",
+    "background": "#14161E",
+    "surface": "#1F232E",
+    "panel": "#080A10",
+    "boost": "#2E72DC",
+    "warning": "#E8A838",
+    "error": "#E42030",
+    "success": "#3AAA4A"
+  }
+}

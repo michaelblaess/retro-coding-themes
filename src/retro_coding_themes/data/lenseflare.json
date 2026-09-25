@@ -1,0 +1,21 @@
+{
+  "name": "lenseflare",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FF8C42",
+    "secondary": "#2BD0E0",
+    "accent": "#E5283A",
+    "foreground": "#F0E5D2",
+    "background": "#0A1226",
+    "surface": "#14213D",
+    "panel": "#060B18",
+    "boost": "#FFA85C",
+    "warning": "#FFB838",
+    "error": "#E5283A",
+    "success": "#2BD0E0"
+  }
+}

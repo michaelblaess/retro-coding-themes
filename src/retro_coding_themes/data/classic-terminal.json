@@ -1,0 +1,21 @@
+{
+  "name": "classic-terminal",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#33FF33",
+    "secondary": "#2A7A2A",
+    "accent": "#88FF88",
+    "foreground": "#33FF33",
+    "background": "#0A0A0A",
+    "surface": "#162616",
+    "panel": "#0F1B0F",
+    "boost": "#88FF88",
+    "warning": "#FFAA00",
+    "error": "#FF4444",
+    "success": "#33FF33"
+  }
+}

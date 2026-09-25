@@ -1,0 +1,21 @@
+{
+  "name": "clipper",
+  "dark": false,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#1A4FA0",
+    "secondary": "#C61F2C",
+    "accent": "#D4222F",
+    "foreground": "#1A1A1A",
+    "background": "#F6F3E8",
+    "surface": "#FCFAF0",
+    "panel": "#EBE6D4",
+    "boost": "#2A6BC8",
+    "warning": "#C88A20",
+    "error": "#C61F2C",
+    "success": "#2E8B3D"
+  }
+}

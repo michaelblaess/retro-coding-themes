@@ -1,0 +1,21 @@
+{
+  "name": "marley",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#078930",
+    "secondary": "#DA121A",
+    "accent": "#FCDD09",
+    "foreground": "#F5EFD8",
+    "background": "#0C0A06",
+    "surface": "#181818",
+    "panel": "#050505",
+    "boost": "#0AA63D",
+    "warning": "#FCDD09",
+    "error": "#DA121A",
+    "success": "#078930"
+  }
+}

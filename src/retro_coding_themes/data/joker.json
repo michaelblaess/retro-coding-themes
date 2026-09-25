@@ -1,0 +1,21 @@
+{
+  "name": "joker",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#7B3FB2",
+    "secondary": "#2FCC2F",
+    "accent": "#FFC72C",
+    "foreground": "#F5F0E5",
+    "background": "#0E0824",
+    "surface": "#1F0F3F",
+    "panel": "#2D1758",
+    "boost": "#9555D4",
+    "warning": "#FFC72C",
+    "error": "#DC4040",
+    "success": "#2FCC2F"
+  }
+}

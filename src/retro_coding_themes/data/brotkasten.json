@@ -1,0 +1,21 @@
+{
+  "name": "brotkasten",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#7C70DA",
+    "secondary": "#3A2B8A",
+    "accent": "#EDF171",
+    "foreground": "#D0CCFF",
+    "background": "#3A2B8A",
+    "surface": "#5446B8",
+    "panel": "#241870",
+    "boost": "#FFFFFF",
+    "warning": "#EDF171",
+    "error": "#C46C71",
+    "success": "#A9FF9F"
+  }
+}

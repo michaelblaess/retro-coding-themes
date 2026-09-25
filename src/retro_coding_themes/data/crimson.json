@@ -1,0 +1,21 @@
+{
+  "name": "crimson",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#CC0000",
+    "secondary": "#A30000",
+    "accent": "#EE0000",
+    "foreground": "#E0E0E0",
+    "background": "#1A0A0A",
+    "surface": "#2A1515",
+    "panel": "#140808",
+    "boost": "#FF2222",
+    "warning": "#EEA500",
+    "error": "#FF4444",
+    "success": "#44AA44"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "platoon",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#9AA04A",
+    "secondary": "#6F8A3C",
+    "accent": "#C7B06A",
+    "foreground": "#E4E0CF",
+    "background": "#12130B",
+    "surface": "#22241A",
+    "panel": "#3A3D22",
+    "boost": "#AEB56A",
+    "warning": "#E0B330",
+    "error": "#BF3B2A",
+    "success": "#6F9A4A"
+  }
+}

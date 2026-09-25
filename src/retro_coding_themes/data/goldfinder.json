@@ -1,0 +1,21 @@
+{
+  "name": "goldfinder",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#E6B800",
+    "secondary": "#8A6E20",
+    "accent": "#FFD740",
+    "foreground": "#E8DFC0",
+    "background": "#080705",
+    "surface": "#18140A",
+    "panel": "#040302",
+    "boost": "#FFE066",
+    "warning": "#E8A838",
+    "error": "#CC4040",
+    "success": "#5AAA5A"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "bluesy",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#D4AF37",
+    "secondary": "#1E4FA0",
+    "accent": "#F0C85A",
+    "foreground": "#F5D76E",
+    "background": "#081F54",
+    "surface": "#0E2E6E",
+    "panel": "#04133A",
+    "boost": "#FFD960",
+    "warning": "#E8A838",
+    "error": "#DD3344",
+    "success": "#48B870"
+  }
+}

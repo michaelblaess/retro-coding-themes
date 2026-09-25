@@ -1,0 +1,21 @@
+{
+  "name": "bunty",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#DD4814",
+    "secondary": "#77216F",
+    "accent": "#E18B5C",
+    "foreground": "#F2EAEA",
+    "background": "#2C001E",
+    "surface": "#4A2540",
+    "panel": "#1F0014",
+    "boost": "#E18B5C",
+    "warning": "#F99B11",
+    "error": "#DF382C",
+    "success": "#38B44A"
+  }
+}

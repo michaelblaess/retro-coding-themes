@@ -1,0 +1,250 @@
+{
+  "name": "retro-themes",
+  "displayName": "Retro Themes",
+  "description": "41 retro color themes for VS Code, 36 dark and 5 light, derived from the textual-themes palettes and checked for readable contrast.",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0b0e12",
+    "theme": "dark"
+  },
+  "version": "2.0.1",
+  "publisher": "michaelblaess",
+  "author": {
+    "name": "Michael Blaess"
+  },
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/michaelblaess/retro-coding-themes"
+  },
+  "homepage": "https://github.com/michaelblaess/retro-coding-themes#readme",
+  "bugs": {
+    "url": "https://github.com/michaelblaess/retro-coding-themes/issues"
+  },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "retro",
+    "vintage",
+    "terminal",
+    "phosphor",
+    "8-bit",
+    "synthwave",
+    "pastel",
+    "color-theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Retro — Ascot",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ascot.json"
+      },
+      {
+        "label": "Retro — Beastie",
+        "uiTheme": "vs-dark",
+        "path": "./themes/beastie.json"
+      },
+      {
+        "label": "Retro — BeBox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bebox.json"
+      },
+      {
+        "label": "Retro — Bluesy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bluesy.json"
+      },
+      {
+        "label": "Retro — Boing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/boing.json"
+      },
+      {
+        "label": "Retro — Brick",
+        "uiTheme": "vs",
+        "path": "./themes/brick.json"
+      },
+      {
+        "label": "Retro — Brotkasten",
+        "uiTheme": "vs-dark",
+        "path": "./themes/brotkasten.json"
+      },
+      {
+        "label": "Retro — Bunty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bunty.json"
+      },
+      {
+        "label": "Retro — Christophorus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/christophorus.json"
+      },
+      {
+        "label": "Retro — Classic Navy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/classic-navy.json"
+      },
+      {
+        "label": "Retro — Classic Terminal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/classic-terminal.json"
+      },
+      {
+        "label": "Retro — Clipper",
+        "uiTheme": "vs",
+        "path": "./themes/clipper.json"
+      },
+      {
+        "label": "Retro — Commandr",
+        "uiTheme": "vs-dark",
+        "path": "./themes/commandr.json"
+      },
+      {
+        "label": "Retro — Corleone",
+        "uiTheme": "vs-dark",
+        "path": "./themes/corleone.json"
+      },
+      {
+        "label": "Retro — Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/crimson.json"
+      },
+      {
+        "label": "Retro — Cupertino",
+        "uiTheme": "vs",
+        "path": "./themes/cupertino.json"
+      },
+      {
+        "label": "Retro — Fifty-Eight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/fifty-eight.json"
+      },
+      {
+        "label": "Retro — Flughund",
+        "uiTheme": "vs-dark",
+        "path": "./themes/flughund.json"
+      },
+      {
+        "label": "Retro — Geeko",
+        "uiTheme": "vs-dark",
+        "path": "./themes/geeko.json"
+      },
+      {
+        "label": "Retro — Gemstone",
+        "uiTheme": "vs",
+        "path": "./themes/gemstone.json"
+      },
+      {
+        "label": "Retro — Golden Brown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/golden-brown.json"
+      },
+      {
+        "label": "Retro — Goldfinder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goldfinder.json"
+      },
+      {
+        "label": "Retro — Goldrunner",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goldrunner.json"
+      },
+      {
+        "label": "Retro — Hercules",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hercules.json"
+      },
+      {
+        "label": "Retro — Hulkula",
+        "uiTheme": "vs-dark",
+        "path": "./themes/hulkula.json"
+      },
+      {
+        "label": "Retro — Joker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/joker.json"
+      },
+      {
+        "label": "Retro — Lenseflare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/lenseflare.json"
+      },
+      {
+        "label": "Retro — Luna",
+        "uiTheme": "vs-dark",
+        "path": "./themes/luna.json"
+      },
+      {
+        "label": "Retro — Marley",
+        "uiTheme": "vs-dark",
+        "path": "./themes/marley.json"
+      },
+      {
+        "label": "Retro — Metropolis",
+        "uiTheme": "vs-dark",
+        "path": "./themes/metropolis.json"
+      },
+      {
+        "label": "Retro — Miami",
+        "uiTheme": "vs-dark",
+        "path": "./themes/miami.json"
+      },
+      {
+        "label": "Retro — Minty",
+        "uiTheme": "vs-dark",
+        "path": "./themes/minty.json"
+      },
+      {
+        "label": "Retro — Motif",
+        "uiTheme": "vs-dark",
+        "path": "./themes/motif.json"
+      },
+      {
+        "label": "Retro — Next",
+        "uiTheme": "vs-dark",
+        "path": "./themes/next.json"
+      },
+      {
+        "label": "Retro — Plan 9",
+        "uiTheme": "vs",
+        "path": "./themes/plan9.json"
+      },
+      {
+        "label": "Retro — Platoon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/platoon.json"
+      },
+      {
+        "label": "Retro — Racing",
+        "uiTheme": "vs-dark",
+        "path": "./themes/racing.json"
+      },
+      {
+        "label": "Retro — Razzy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/razzy.json"
+      },
+      {
+        "label": "Retro — Spiderized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/spiderized.json"
+      },
+      {
+        "label": "Retro — Synthwave",
+        "uiTheme": "vs-dark",
+        "path": "./themes/synthwave.json"
+      },
+      {
+        "label": "Retro — Warp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/warp.json"
+      }
+    ]
+  }
+}

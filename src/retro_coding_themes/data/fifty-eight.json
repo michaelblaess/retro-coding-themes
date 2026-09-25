@@ -1,0 +1,21 @@
+{
+  "name": "fifty-eight",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#C9A96E",
+    "secondary": "#6A6A6A",
+    "accent": "#9E1B25",
+    "foreground": "#E8C985",
+    "background": "#100C08",
+    "surface": "#1E1914",
+    "panel": "#080605",
+    "boost": "#D9BC80",
+    "warning": "#C9A048",
+    "error": "#B8252E",
+    "success": "#6A9A5A"
+  }
+}

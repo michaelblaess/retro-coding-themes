@@ -1,0 +1,21 @@
+{
+  "name": "commandr",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FFFF55",
+    "secondary": "#55FFFF",
+    "accent": "#FFFF55",
+    "foreground": "#FFFFFF",
+    "background": "#0000AA",
+    "surface": "#1A1ACC",
+    "panel": "#000077",
+    "boost": "#FFFF55",
+    "warning": "#FFAA00",
+    "error": "#FF5555",
+    "success": "#55FF55"
+  }
+}

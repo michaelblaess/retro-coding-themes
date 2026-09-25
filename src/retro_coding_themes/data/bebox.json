@@ -1,0 +1,21 @@
+{
+  "name": "bebox",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FFD800",
+    "secondary": "#5F5F5F",
+    "accent": "#FFD800",
+    "foreground": "#E8E8E8",
+    "background": "#3A3A4A",
+    "surface": "#4A4A5A",
+    "panel": "#333344",
+    "boost": "#FFE433",
+    "warning": "#FF9900",
+    "error": "#DD3333",
+    "success": "#33BB33"
+  }
+}

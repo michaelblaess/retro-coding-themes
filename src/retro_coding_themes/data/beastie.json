@@ -1,0 +1,21 @@
+{
+  "name": "beastie",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#AB2B28",
+    "secondary": "#5E8AAA",
+    "accent": "#AB2B28",
+    "foreground": "#D4D4D4",
+    "background": "#1C2028",
+    "surface": "#262A32",
+    "panel": "#161A20",
+    "boost": "#CC3533",
+    "warning": "#CC9933",
+    "error": "#DD4444",
+    "success": "#55AA66"
+  }
+}

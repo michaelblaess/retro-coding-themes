@@ -1,0 +1,21 @@
+{
+  "name": "brick",
+  "dark": false,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#8E2A5E",
+    "secondary": "#5A4858",
+    "accent": "#D63B68",
+    "foreground": "#241F28",
+    "background": "#D4CEBC",
+    "surface": "#E2DCCA",
+    "panel": "#B2AC9A",
+    "boost": "#B83470",
+    "warning": "#C85820",
+    "error": "#A0203A",
+    "success": "#4A7A3A"
+  }
+}

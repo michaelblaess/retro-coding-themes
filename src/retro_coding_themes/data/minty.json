@@ -1,0 +1,21 @@
+{
+  "name": "minty",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#8BB158",
+    "secondary": "#6DAB76",
+    "accent": "#8BB158",
+    "foreground": "#E8E8E8",
+    "background": "#2B2B2B",
+    "surface": "#363636",
+    "panel": "#232323",
+    "boost": "#9EC46A",
+    "warning": "#E5A50A",
+    "error": "#CC3333",
+    "success": "#8BB158"
+  }
+}

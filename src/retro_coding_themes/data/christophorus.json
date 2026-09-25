@@ -1,0 +1,34 @@
+{
+  "name": "christophorus",
+  "dark": true,
+  "source": {
+    "origin": "web-themes christophorus.json, Rollen von Hand auf die elf Grundfarben abgebildet",
+    "web_themes": "0.1.0",
+    "mapping": {
+      "background": "bg_primary",
+      "surface": "bg_elevated",
+      "panel": "bg_secondary",
+      "foreground": "text_primary",
+      "primary": "accent (Gold, traegt die Statuszeile)",
+      "accent": "accent_hover (helleres Gold fuer Schluesselwoerter)",
+      "secondary": "text_secondary",
+      "boost": "purple (das Cyan des Entwurfs)",
+      "warning": "orange",
+      "error": "red",
+      "success": "green"
+    }
+  },
+  "base": {
+    "primary": "#D4A15A",
+    "secondary": "#9FAABB",
+    "accent": "#E0B574",
+    "foreground": "#E6E9EE",
+    "background": "#102640",
+    "surface": "#1A3A5E",
+    "panel": "#132D4B",
+    "boost": "#6FD3E0",
+    "warning": "#E8B45A",
+    "error": "#FF6B8B",
+    "success": "#8FD16A"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "plan9",
+  "dark": false,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#228844",
+    "secondary": "#4488AA",
+    "accent": "#228844",
+    "foreground": "#111111",
+    "background": "#FFFFEA",
+    "surface": "#EAFFFF",
+    "panel": "#D5E8D0",
+    "boost": "#33AA55",
+    "warning": "#BB8800",
+    "error": "#CC2222",
+    "success": "#228844"
+  }
+}

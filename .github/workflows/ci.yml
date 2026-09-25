@@ -1,0 +1,38 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  pruefen:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, windows-latest]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: uv einrichten
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.13"
+
+      - name: Lint (ruff)
+        run: uv run --extra dev ruff check .
+
+      - name: Typen (mypy)
+        run: uv run --extra dev mypy
+
+      - name: Tests (pytest)
+        run: uv run --extra dev pytest -q
+
+      # Die erzeugten Dateien liegen im Repo. Sie muessen zum Erzeuger passen, sonst laeuft
+      # jemand mit einem Stand herum, den der Generator so nicht mehr erzeugen wuerde.
+      - name: Erzeugte Dateien sind aktuell
+        run: |
+          uv run --extra dev python -m retro_coding_themes
+          git diff --exit-code -- colors vscode visualstudio

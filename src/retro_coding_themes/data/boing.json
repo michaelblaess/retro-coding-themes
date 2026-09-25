@@ -1,0 +1,21 @@
+{
+  "name": "boing",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#FF8800",
+    "secondary": "#0055AA",
+    "accent": "#FF8800",
+    "foreground": "#FFFFFF",
+    "background": "#0055AA",
+    "surface": "#0066BB",
+    "panel": "#004499",
+    "boost": "#FF9922",
+    "warning": "#FFAA00",
+    "error": "#FF4444",
+    "success": "#44BB44"
+  }
+}

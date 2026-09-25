@@ -1,0 +1,21 @@
+{
+  "name": "motif",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#CC9966",
+    "secondary": "#5F7B8A",
+    "accent": "#CC9966",
+    "foreground": "#D8D0C8",
+    "background": "#3A4A5A",
+    "surface": "#455565",
+    "panel": "#303F4F",
+    "boost": "#DDAA77",
+    "warning": "#CCAA44",
+    "error": "#CC5544",
+    "success": "#55AA66"
+  }
+}

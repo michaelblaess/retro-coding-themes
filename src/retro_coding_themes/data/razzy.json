@@ -1,0 +1,21 @@
+{
+  "name": "razzy",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#C51A4A",
+    "secondary": "#6CC24A",
+    "accent": "#C51A4A",
+    "foreground": "#EEEEEE",
+    "background": "#1E1E2E",
+    "surface": "#2A2A3A",
+    "panel": "#181828",
+    "boost": "#DD2A5A",
+    "warning": "#E5A50A",
+    "error": "#DD3333",
+    "success": "#6CC24A"
+  }
+}

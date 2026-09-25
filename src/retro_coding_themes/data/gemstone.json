@@ -1,0 +1,21 @@
+{
+  "name": "gemstone",
+  "dark": false,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#007700",
+    "secondary": "#555555",
+    "accent": "#009900",
+    "foreground": "#111111",
+    "background": "#E8E8E8",
+    "surface": "#F2F2F2",
+    "panel": "#DDDDDD",
+    "boost": "#00AA00",
+    "warning": "#AA8800",
+    "error": "#CC0000",
+    "success": "#007700"
+  }
+}

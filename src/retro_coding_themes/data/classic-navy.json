@@ -1,0 +1,21 @@
+{
+  "name": "classic-navy",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#C0C5CC",
+    "secondary": "#1E4585",
+    "accent": "#9E3A42",
+    "foreground": "#EEF0F5",
+    "background": "#0C2B5C",
+    "surface": "#143465",
+    "panel": "#061A3A",
+    "boost": "#D8DCE2",
+    "warning": "#D4A040",
+    "error": "#B04048",
+    "success": "#50AA50"
+  }
+}

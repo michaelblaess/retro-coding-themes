@@ -1,0 +1,21 @@
+{
+  "name": "cupertino",
+  "dark": false,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#007AFF",
+    "secondary": "#5856D6",
+    "accent": "#007AFF",
+    "foreground": "#1D1D1F",
+    "background": "#F5F5F7",
+    "surface": "#FFFFFF",
+    "panel": "#E8E8ED",
+    "boost": "#0A84FF",
+    "warning": "#FF9500",
+    "error": "#FF3B30",
+    "success": "#34C759"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "golden-brown",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#A8843F",
+    "secondary": "#6E4E36",
+    "accent": "#C29A4E",
+    "foreground": "#D5C5A4",
+    "background": "#0F0B07",
+    "surface": "#1C1611",
+    "panel": "#2B2018",
+    "boost": "#D2AC66",
+    "warning": "#BE8F39",
+    "error": "#9A2B2B",
+    "success": "#5F6B42"
+  }
+}

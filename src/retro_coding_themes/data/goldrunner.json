@@ -1,0 +1,21 @@
+{
+  "name": "goldrunner",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#C8A93A",
+    "secondary": "#C788CE",
+    "accent": "#E8C547",
+    "foreground": "#EEEECA",
+    "background": "#080520",
+    "surface": "#1A0F3D",
+    "panel": "#120A2E",
+    "boost": "#FFE9A8",
+    "warning": "#B06400",
+    "error": "#D6456A",
+    "success": "#5FA82E"
+  }
+}

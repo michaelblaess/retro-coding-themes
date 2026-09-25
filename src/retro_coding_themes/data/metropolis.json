@@ -1,0 +1,21 @@
+{
+  "name": "metropolis",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#E02030",
+    "secondary": "#1A5CC8",
+    "accent": "#FFD53B",
+    "foreground": "#F0F2F8",
+    "background": "#0A2A5E",
+    "surface": "#123876",
+    "panel": "#051838",
+    "boost": "#F83040",
+    "warning": "#FFD53B",
+    "error": "#C80A18",
+    "success": "#3AAA4A"
+  }
+}

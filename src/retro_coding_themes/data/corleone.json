@@ -1,0 +1,21 @@
+{
+  "name": "corleone",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#A88B52",
+    "secondary": "#4A4E58",
+    "accent": "#9A8147",
+    "foreground": "#C3C0B4",
+    "background": "#0B0C0E",
+    "surface": "#16181C",
+    "panel": "#1F2228",
+    "boost": "#C0A263",
+    "warning": "#B89043",
+    "error": "#8C2F2F",
+    "success": "#5E7355"
+  }
+}

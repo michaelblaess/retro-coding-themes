@@ -1,0 +1,21 @@
+{
+  "name": "hulkula",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#2BA841",
+    "secondary": "#BCC4CA",
+    "accent": "#4DC962",
+    "foreground": "#F0F2EE",
+    "background": "#083C14",
+    "surface": "#104B1B",
+    "panel": "#042608",
+    "boost": "#5FD974",
+    "warning": "#D4A040",
+    "error": "#CC2222",
+    "success": "#4DC962"
+  }
+}

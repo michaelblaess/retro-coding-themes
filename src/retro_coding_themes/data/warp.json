@@ -1,0 +1,21 @@
+{
+  "name": "warp",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#00BBBB",
+    "secondary": "#3333AA",
+    "accent": "#00BBBB",
+    "foreground": "#D0D0D0",
+    "background": "#1A1A4E",
+    "surface": "#25255E",
+    "panel": "#141442",
+    "boost": "#22DDDD",
+    "warning": "#DDAA22",
+    "error": "#DD4444",
+    "success": "#44BB66"
+  }
+}

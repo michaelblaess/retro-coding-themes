@@ -1,0 +1,21 @@
+{
+  "name": "geeko",
+  "dark": true,
+  "source": {
+    "origin": "textual-themes palettes.py",
+    "textual_themes": "0.14.0"
+  },
+  "base": {
+    "primary": "#73BA25",
+    "secondary": "#35B9AB",
+    "accent": "#73BA25",
+    "foreground": "#EEEEEE",
+    "background": "#173F0F",
+    "surface": "#1E4D15",
+    "panel": "#12330B",
+    "boost": "#85CC37",
+    "warning": "#F0A30A",
+    "error": "#DD3333",
+    "success": "#73BA25"
+  }
+}

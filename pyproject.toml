@@ -1,0 +1,50 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "retro-coding-themes"
+version = "0.1.0"
+description = "Retro colour themes for Neovim, VS Code and Visual Studio 2026, derived from textual-themes and tuned for readability"
+readme = "README.md"
+license = "Apache-2.0"
+requires-python = ">=3.13"
+authors = [{ name = "Michael Blaess" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "mypy>=1.8",
+    "ruff>=0.6",
+]
+
+[project.urls]
+Repository = "https://github.com/michaelblaess/retro-coding-themes"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+retro_coding_themes = ["data/*.json", "py.typed"]
+
+[tool.mypy]
+python_version = "3.13"
+strict = true
+files = ["src", "tests", "tools"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "--tb=short"
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "N", "UP", "B", "C4", "SIM"]
+
+[[tool.mypy.overrides]]
+# Pillow braucht nur tools/vorschau_vscode.py, es kommt per "uv run --with pillow"
+module = ["PIL", "PIL.*"]
+ignore_missing_imports = true
